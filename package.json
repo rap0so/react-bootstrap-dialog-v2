@@ -1,0 +1,9 @@
+{
+  "name": "react-bootstrap-dialog-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:akiroom/react-bootstrap-dialog.git",
+  "description": "The modal-dialog React component with React Bootstrap, alternates `window.confirm` and `window.alert`.",
+  "author": "Rap0so <william.s.godoy53@gmail.com>",
+  "license": "MIT"
+}
